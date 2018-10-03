@@ -1,0 +1,5 @@
+{
+	"parentTag" : "TestOrder",
+	"headerFields" : ["TestOrder:Id","TestOrder:LastModificationActorId","TestOrder:Specimen","Detail:Value"],
+	"tableFields" : ["TestOrder:TestOrderDate","TestOrder:Status","TestData:Id", "TestResult:Id", "ProcessOrder:Id"]
+}

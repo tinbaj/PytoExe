@@ -1,0 +1,11 @@
+{
+	"recordMarkerStartText": "Software Version",
+    "recordMarkerEndText": "XXX Laboratories",
+    "tableMarkerStartText": "Water Report",
+    "tableMarkerEndText": "Timed Event Table",
+    "headerMarkerStartText": "Software Version",
+    "headerMarkerEndText": "Water Report",
+    "headerFieldsSelection": ["Sample Name","Sample Number","Instrument","Sample Amount"],
+    "tableFieldsSelection": ["Time","Component","Adj Amt","Area"],
+    "delimiter": ","
+}
